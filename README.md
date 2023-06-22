@@ -1,4 +1,4 @@
-# Starting point
+# silverublue
 
 [![build-ublue](https://github.com/dyoungwd/silverublue/actions/workflows/build.yml/badge.svg)](https://github.com/dyoungwd/silverublue/actions/workflows/build.yml)
 
